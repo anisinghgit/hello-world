@@ -9,19 +9,19 @@
     <br>
     
     <label for="mobile"><b>Enter mobile Number</b></label>
-    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="    Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email< ID/b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="email"><b>Enter Email ID</b></label>
+    <input type="text" placeholder="    Enter Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="         Enter Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="     Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning the latest changes</h1>
+   <h1> Thankyou, Happy Learning after new changes</h1>
 
   
 </form>
